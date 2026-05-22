@@ -1,0 +1,9 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+*.pdf
+*.json
+.DS_Store
+modules/.DS_Store
+venv/
